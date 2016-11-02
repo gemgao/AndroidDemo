@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="send_appdata_item">
+	    <item>发送app文件本地路径</item>
+	    <item>发送app二进制数据</item>
+	    <item>发送无附件的app</item>
+	</string-array>
+    <string-array name="send_emoji_item">
+	    <item>发送表情本地路径</item>
+	    <item>发送表情二进制数据</item>
+	</string-array>
+    <string-array name="send_emoji_item_format">
+	    <item>发送GIF图片</item>
+	    <item>发送非GIF图片</item>
+	</string-array>
+    <string-array name="send_img_item">
+        <item>发送图片的二进制数据</item>
+        <item>发送图片的本地路径</item>
+        <item>发送图片的URL</item>
+    </string-array>
+    <string-array name="send_music_item">
+	    <item>发送音乐url</item>
+	    <item>发送低带宽音乐url</item>
+	</string-array>
+    <string-array name="send_video_item">
+	    <item>发送视频url</item>
+	    <item>发送低带宽视频url</item>
+	</string-array>
+    <string-array name="send_webpage_item">
+	    <item>发送网页url</item>
+	</string-array>
+    <color name="black">#000000</color>
+    <color name="blue">#ffccddff</color>
+    <color name="darkgrey">#ff404040</color>
+    <color name="grey">#58616d</color>
+    <color name="lightgrey">#ff888888</color>
+    <color name="lightransparent">#a0000000</color>
+    <color name="navpage">#FFE1E8EB</color>
+    <color name="semitransparent">#80000000</color>
+    <color name="toasterro">#9fd524</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <dimen name="BasicTextSize">15dp</dimen>
+    <dimen name="ChattingContentMinHeight">49dp</dimen>
+    <dimen name="ChattingTextSize">16dp</dimen>
+    <dimen name="ConversationItemHeight">58dp</dimen>
+    <dimen name="LargeAvatarSize">56dp</dimen>
+    <dimen name="LargeTextSize">16dp</dimen>
+    <dimen name="LargestTextSize">30dp</dimen>
+    <dimen name="PreferenceItemHeight">42dp</dimen>
+    <dimen name="SmallTextSize">14dp</dimen>
+    <dimen name="SmallerTextSize">13dp</dimen>
+    <dimen name="TitleTextSize">18dp</dimen>
+    <string name="app_back">返回</string>
+    <string name="app_cancel">取消</string>
+    <string name="app_continue">继续</string>
+    <string name="app_delete">删除</string>
+    <string name="app_edit">编辑</string>
+    <string name="app_find">查找</string>
+    <string name="app_finish">完成</string>
+    <string name="app_name">SDKSample</string>
+    <string name="app_nextstep">下一步</string>
+    <string name="app_ok">确定</string>
+    <string name="app_prevstep">上一步</string>
+    <string name="app_save">保存</string>
+    <string name="app_send">发送</string>
+    <string name="app_set">设置</string>
+    <string name="app_share">分享</string>
+    <string name="app_tip">提示</string>
+    <string name="applet_seccode_fail_tip">验证码错误，请重新输入</string>
+    <string name="applet_seccode_tip">验证码不能为空</string>
+    <string name="applet_secimg_change">换一张图片</string>
+    <string name="applet_secimg_title">填写验证码</string>
+    <string name="check_timeline_supported">检查是否支持发送到朋友圈</string>
+    <string name="enter">这是SDK_Sample的入口界面</string>
+    <string name="errcode_cancel">发送取消</string>
+    <string name="errcode_deny">发送被拒绝</string>
+    <string name="errcode_success">发送成功</string>
+    <string name="errcode_unknown">发送返回</string>
+    <string name="fmt_afternoon">下午</string>
+    <string name="fmt_date">M月d日</string>
+    <string formatted="false" name="fmt_datetime">M月d日 %skk:mm</string>
+    <string name="fmt_dawn">凌晨</string>
+    <string name="fmt_evening">晚上</string>
+    <string formatted="false" name="fmt_iap_err">网络连接不可用，请稍候重试</string>
+    <string formatted="false" name="fmt_in60min">%d分钟前</string>
+    <string name="fmt_justnow">1分钟内</string>
+    <string name="fmt_longdate">yyyy年M月d日</string>
+    <string formatted="false" name="fmt_longtime">yyyy年M月d日 %skk:mm</string>
+    <string name="fmt_morning">早上</string>
+    <string name="fmt_noon">中午</string>
+    <string name="fmt_patime">kk:mm</string>
+    <string name="fmt_pre_yesterday">昨天</string>
+    <string name="get_from_wx_title">从微信接收</string>
+    <string name="get_token_from_weixin">获取微信访问Token</string>
+    <string name="goto_send">跳转到发消息界面</string>
+    <string name="hello">Hello World, SDKSampleActivity!</string>
+    <string name="is_timeline">是否分享到朋友圈</string>
+    <string name="launch_wx">启动微信</string>
+    <string name="receive">从微信接收</string>
+    <string name="reg">将该app注册到微信</string>
+    <string name="register_as_weixin_app_sender">注册微信事件发送器</string>
+    <string name="send">发送到微信</string>
+    <string name="send_appdata">发送app消息</string>
+    <string name="send_emoji">发送表情消息</string>
+    <string name="send_img">发送图片</string>
+    <string name="send_img_file_not_exist">文件不存在</string>
+    <string name="send_music">发送音乐</string>
+    <string name="send_pic">发送照片</string>
+    <string name="send_text">发送文本</string>
+    <string name="send_text_default">这段文字发送自微信SDK示例程序</string>
+    <string name="send_to_wx_title">发送到微信</string>
+    <string name="send_video">发送视频</string>
+    <string name="send_webpage">发送网页</string>
+    <string name="share_appdata_to_weixin">回应app消息到微信</string>
+    <string name="share_music_to_weixin">回应音乐到微信</string>
+    <string name="share_pic_to_weixin">回应图片到微信</string>
+    <string name="share_text_default">这段文字回应自微信SDK示例程序</string>
+    <string name="share_text_to_weixin">回应文本到微信</string>
+    <string name="share_url_to_weixin">回应URL到微信</string>
+    <string name="share_video_to_weixin">回应视频到微信</string>
+    <string name="show_from_wx_tip">这个界面用于显示微信向第三方app请求显示的信息</string>
+    <string name="show_from_wx_title">显示微信请求的消息</string>
+    <string name="unregister_from_weixin">从微信反注册</string>
+    <string name="verify_password_null_tip">密码不能为空，请输入密码</string>
+    <style name="ChattingUIContent">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">6dp</item>
+        <item name="android:paddingRight">6dp</item>
+        <item name="android:paddingBottom">10dp</item>
+    </style>
+    <style name="ChattingUIFMessageText" parent="ChattingUIText">
+        <item name="android:textColor">@color/mm_pref_summary</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="ChattingUIMailSenderText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:textColor">#4271AD</item>
+        <item name="android:textSize">@dimen/BasicTextSize</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:maxWidth">240dp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="ChattingUISenderText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:textColor">#3F3F3F</item>
+        <item name="android:textSize">@dimen/SmallTextSize</item>
+        <item name="android:shadowDy">1.2</item>
+        <item name="android:shadowDx">1.2</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:shadowColor">#A0FFFFFF</item>
+        <item name="android:maxWidth">240dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:paddingLeft">7dp</item>
+        <item name="android:paddingRight">7dp</item>
+        <item name="android:paddingBottom">2dp</item>
+    </style>
+    <style name="ChattingUISplit">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:layout_marginBottom">6dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@null</item>
+        <item name="android:textColor">@color/lightgrey</item>
+        <item name="android:textSize">12dp</item>
+        <item name="android:shadowDy">1.2</item>
+        <item name="android:shadowDx">1.2</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:shadowColor">#A0FFFFFF</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:paddingTop">11dp</item>
+        <item name="android:paddingBottom">6dp</item>
+    </style>
+    <style name="ChattingUISystem">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#F0F0F0</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+    <style name="ChattingUIText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">@dimen/ChattingTextSize</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+        <item name="android:maxWidth">240dp</item>
+        <item name="android:minHeight">15dp</item>
+    </style>
+    <style name="ChattingUIThumbnail">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxWidth">240dp</item>
+    </style>
+    <style name="ChattingUIVoiceLength">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">3dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/lightgrey</item>
+        <item name="android:textSize">@dimen/SmallTextSize</item>
+        <item name="android:shadowColor">#80FFFFFF</item>
+        <item name="android:shadowDy">1.4</item>
+        <item name="android:shadowDx">1.4</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+    <style name="ChattingUIWordCount">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">13dp</item>
+    </style>
+    <style name="ChoicePreferenceButton">
+        <item name="android:button">@null</item>
+        <item name="android:minWidth">60dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/mm_choice_text_color</item>
+    </style>
+    <style name="DataSheetAnimation" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/push_up_in</item>
+    </style>
+    <style name="HyperText" parent="MMButton">
+        <item name="android:background">@null</item>
+        <item name="android:textColor">@color/mm_hyper_text</item>
+        <item name="android:textSize">@dimen/BasicTextSize</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="MMBlock">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="MMBody">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingLeft">18dp</item>
+        <item name="android:paddingRight">18dp</item>
+        <item name="android:paddingTop">26dp</item>
+        <item name="android:paddingBottom">18dp</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:fadingEdge">@null</item>
+    </style>
+    <style name="MMBriefText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#707070</item>
+        <item name="android:textSize">@dimen/BasicTextSize</item>
+        <item name="android:shadowColor">#A0FFFFFF</item>
+        <item name="android:shadowDy">1.2</item>
+        <item name="android:shadowDx">1.2</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+    </style>
+    <style name="MMButton">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/mm_btn_text</item>
+        <item name="android:background">@null</item>
+        <item name="android:minHeight">40dp</item>
+        <item name="android:minWidth">40dp</item>
+    </style>
+    <style name="MMCheckBox">
+        <item name="android:background">@drawable/mm_checkbox_btn</item>
+    </style>
+    <style name="MMDivider">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:background">#B2B2B5</item>
+    </style>
+    <style name="MMEditText">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">@dimen/BasicTextSize</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:background">@drawable/mm_edit</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:minHeight">43dp</item>
+        <item name="android:textColorHint">@color/lightgrey</item>
+    </style>
+    <style name="MMFontEmptyMsgLarge" parent="MMFontPreferenceLarge">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/mm_pref_summary</item>
+    </style>
+    <style name="MMFontPreferenceLarge">
+        <item name="android:textAppearance">@style/MMPreferenceTextLarge</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="MMFontPreferenceProfile" parent="MMFontPreferenceLarge">
+        <item name="android:textSize">@dimen/TitleTextSize</item>
+    </style>
+    <style name="MMFontPreferenceSmall">
+        <item name="android:textAppearance">@style/MMPreferenceTextSmall</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:shadowColor">#A0FFFFFF</item>
+        <item name="android:shadowDy">1.2</item>
+        <item name="android:shadowDx">1.2</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+    <style name="MMFontPreferenceSummary" parent="MMFontPreferenceSmall">
+        <item name="android:textAppearance">@style/MMPreferenceTextSmall</item>
+        <item name="android:textSize">@dimen/BasicTextSize</item>
+    </style>
+    <style name="MMFontTimeInList" parent="MMFontTipInList">
+        <item name="android:textSize">@dimen/SmallTextSize</item>
+        <item name="android:textColor">@color/mm_list_textcolor_time</item>
+    </style>
+    <style name="MMFontTipInList">
+        <item name="android:textSize">@dimen/SmallTextSize</item>
+        <item name="android:textColor">@color/mm_list_textcolor_two</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="MMFontTitleInList">
+        <item name="android:textSize">@dimen/LargeTextSize</item>
+        <item name="android:textColor">@color/mm_list_textcolor_one</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <!--
+		<item name="android:shadowColor">#80A0A0A0</item>
+		<item name="android:shadowDy">1.2</item>
+		<item name="android:shadowDx">1.2</item>
+		<item name="android:shadowRadius">1</item>
+        -->
+    </style>
+    <style name="MMFooter">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">54dp</item>
+        <item name="android:minHeight">54dp</item>
+    </style>
+    <style name="MMFriendListItem" parent="MMListItem">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">6dp</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:paddingBottom">6dp</item>
+    </style>
+    <style name="MMLabel" parent="MMBriefText">
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="MMLabelSplit">
+        <item name="android:layout_width">10dp</item>
+        <item name="android:layout_height">13dp</item>
+        <item name="android:background">@null</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="MMLine">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="MMLineActionButton" parent="@style/MMLineButton">
+        <item name="android:background">@drawable/btn_style_one</item>
+        <item name="android:textColor">@color/mm_style_one_btn_text</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDy">1.2</item>
+        <item name="android:shadowDx">1.2</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+    <style name="MMLineButton" parent="@style/MMButton">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/mm_style_two_btn_text</item>
+    </style>
+    <style name="MMLineEditPass" parent="@style/MMLineEditText">
+        <item name="android:password">true</item>
+        <item name="android:inputType">textPassword</item>
+    </style>
+    <style name="MMLineEditText" parent="@style/MMEditText">
+        <item name="android:layout_width">fill_parent</item>
+    </style>
+    <style name="MMLineLabel" parent="MMLabel">
+        <item name="android:gravity">left</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+    </style>
+    <style name="MMListCatalog">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#CED2D7</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingTop">2dp</item>
+        <item name="android:paddingBottom">2dp</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#595C61</item>
+    </style>
+    <style name="MMListItem">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:minHeight">60dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingRight">4dp</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="MMListView">
+        <item name="android:divider">@null</item>
+        <item name="android:dividerHeight">0px</item>
+        <item name="android:scrollbars">vertical</item>
+        <item name="android:listSelector">@drawable/list_selector_background</item>
+        <!-- cause some m9 crash -->
+        <!-- <item name="android:overScrollMode">always</item> -->
+    </style>
+    <style name="MMLogin" parent="MMLabel">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/LargeTextSize</item>
+    </style>
+    <style name="MMMultiLineEditText" parent="@style/MMLineEditText">
+        <item name="android:singleLine">false</item>
+        <item name="android:minLines">3</item>
+        <item name="android:gravity">top</item>
+    </style>
+    <style name="MMPreference">
+        <item name="android:layout">@layout/mm_preference</item>
+    </style>
+    <style name="MMPreference.Catagory">
+        <item name="android:layout">@layout/mm_preference_catalog</item>
+    </style>
+    <style name="MMPreference.CheckBoxPreference">
+        <item name="android:widgetLayout">@layout/mm_preference_checkbox</item>
+    </style>
+    <style name="MMPreference.Child">
+        <item name="android:layout">@layout/mm_preference_child</item>
+    </style>
+    <style name="MMPreference.DialogPreference">
+        <item name="android:positiveButtonText">@android:string/ok</item>
+        <item name="android:negativeButtonText">@android:string/cancel</item>
+    </style>
+    <style name="MMPreference.DialogPreference.EditTextPreference">
+        <item name="android:dialogLayout">@layout/mm_preference_dialog_edittext</item>
+    </style>
+    <style name="MMPreference.DialogPreference.YesNoPreference">
+        <item name="android:positiveButtonText">@android:string/yes</item>
+        <item name="android:negativeButtonText">@android:string/no</item>
+    </style>
+    <style name="MMPreference.Information">
+        <item name="android:layout">@layout/mm_preference</item>
+        <item name="android:enabled">false</item>
+        <item name="android:shouldDisableView">false</item>
+    </style>
+    <style name="MMPreference.RingtonePreference">
+        <item name="android:ringtoneType">ringtone</item>
+        <item name="android:showSilent">true</item>
+        <item name="android:showDefault">true</item>
+    </style>
+    <style name="MMPreferenceScreen">
+        <item name="android:layout">@layout/mm_preference</item>
+        <item name="android:widgetLayout">@layout/mm_preference_screen</item>
+    </style>
+    <style name="MMPreferenceTextLarge">
+        <item name="android:textSize">@dimen/LargeTextSize</item>
+        <item name="android:textColor">@color/mm_pref_title</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="MMPreferenceTextSmall">
+        <item name="android:textSize">@dimen/SmallTextSize</item>
+        <item name="android:textColor">@color/mm_pref_summary</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="MMScroll">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">0dip</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:orientation">vertical</item>
+        <!-- <item name="android:fadingEdge">@null</item> -->
+    </style>
+    <style name="MMSplit">
+        <item name="android:layout_width">8dp</item>
+        <item name="android:layout_height">5dp</item>
+        <item name="android:background">@null</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="MMTheme.Basic" parent="android:Theme">
+        <item name="android:listViewStyle">@style/MMListView</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:preferenceScreenStyle">@style/MMPreferenceScreen</item>
+        <item name="android:preferenceStyle">@style/MMPreference</item>
+        <item name="android:preferenceLayoutChild">@style/MMPreference.Child</item>
+        <item name="android:preferenceInformationStyle">@style/MMPreference.Information</item>
+        <item name="android:preferenceCategoryStyle">@style/MMPreference.Catagory</item>
+        <item name="android:checkBoxPreferenceStyle">@style/MMPreference.CheckBoxPreference</item>
+        <item name="android:ringtonePreferenceStyle">@style/MMPreference.RingtonePreference</item>
+        <item name="android:yesNoPreferenceStyle">@style/MMPreference.DialogPreference.YesNoPreference</item>
+        <item name="android:dialogPreferenceStyle">@style/MMPreference.DialogPreference</item>
+        <item name="android:editTextPreferenceStyle">@style/MMPreference.DialogPreference.EditTextPreference</item>
+        <item name="android:checkboxStyle">@style/MMCheckBox</item>
+    </style>
+    <style name="MMTheme.DataSheet" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@drawable/mm_trans</item>
+        <item name="android:windowBackground">@drawable/mm_trans</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowAnimationStyle">@style/DataSheetAnimation</item>
+    </style>
+    <style name="MMTheme.Launcher" parent="MMTheme.Basic">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@drawable/mm_trans</item>
+        <item name="android:windowBackground">@drawable/mm_trans</item>
+        <item name="android:windowTitleSize">0dp</item>
+    </style>
+    <style name="MMTheme.Preference" parent="MMTheme.Basic">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowTitleSize">0dp</item>
+    </style>
+    <style name="MMTheme.Search" parent="MMTheme.Basic">
+        <item name="android:windowBackground">@color/semitransparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@+android:style/Animation.Translucent</item>
+    </style>
+    <style name="MMTitle">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">19dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="MMTitleButton">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:minWidth">75dp</item>
+        <item name="android:background">@null</item>
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="MMToolbarButton" parent="@style/MMButton">
+        <item name="android:minWidth">45dp</item>
+        <item name="android:minHeight">50dp</item>
+        <item name="android:textSize">@dimen/SmallerTextSize</item>
+        <item name="android:textColor">#2C2C2C</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="NavPage">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center_horizontal</item>
+        <!-- <item name="android:background">@drawable/nav_page</item> -->
+        <item name="android:background">@color/navpage</item>
+    </style>
+    <style name="noBgFullScreen">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>

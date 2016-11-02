@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\guidviewDemo\\build\\intermediates\\res\\merged\\debug\\menu\\menu_muti_guide_view.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\guidviewDemo\\src\\main\\res\\menu\\menu_muti_guide_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\guidviewDemo\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\guidviewDemo\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\guidviewDemo\\build\\intermediates\\res\\merged\\debug\\menu\\menu_simple_guide_view.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\guidviewDemo\\src\\main\\res\\menu\\menu_simple_guide_view.xml"
+    }
+]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/popup_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="2dp"
+    android:paddingTop="3dp" >
+
+    <TextView
+        android:id="@+id/popup_text"
+        style="@style/MMLineActionButton"
+        android:layout_height="45dp"
+        android:background="@null"
+        android:gravity="center"
+        android:shadowColor="#000000"
+        android:shadowDx="1.2"
+        android:shadowDy="1.2"
+        android:shadowRadius="1"
+        android:singleLine="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/LargeTextSize" />
+
+</LinearLayout>

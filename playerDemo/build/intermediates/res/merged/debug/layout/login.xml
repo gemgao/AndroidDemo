@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scroll_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Spinner
+                android:id="@+id/Spinner01"
+                android:layout_width="@dimen/input_width"
+                android:layout_height="wrap_content" />
+
+            <EditText
+                android:id="@+id/gs_domin"
+                android:layout_width="@dimen/input_width"
+                android:layout_height="wrap_content"
+                android:hint="@string/zhandianwangzhi"
+                android:textSize="@dimen/input_size"
+                android:shadowColor="#000000" />
+
+            <EditText
+                android:id="@+id/gs_numble"
+                android:layout_width="@dimen/input_width"
+                android:layout_height="wrap_content"
+                android:hint="@string/bianhao"
+                android:textSize="@dimen/input_size"
+                android:shadowColor="#000000" />
+
+            <EditText
+                android:id="@+id/gs_account"
+                android:layout_width="@dimen/input_width"
+                android:layout_height="wrap_content"
+                android:hint="@string/zhandian"
+                android:textSize="@dimen/input_size"
+                android:shadowColor="#000000" />
+
+            <EditText
+                android:id="@+id/gs_account_psw"
+                android:layout_width="@dimen/input_width"
+                android:layout_height="wrap_content"
+                android:hint="@string/zhandianpassword"
+                android:textSize="@dimen/input_size"
+                android:shadowColor="#000000" />
+
+            <EditText
+                android:id="@+id/gs_nickroom"
+                android:layout_width="@dimen/input_width"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/input_size"
+                android:hint="@string/roomnickname"
+                android:shadowColor="#000000" />
+
+            <EditText
+                android:id="@+id/gs_nickname_psw"
+                android:layout_width="@dimen/input_width"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/input_size"
+                android:hint="@string/roompassword"
+                android:shadowColor="#000000" />
+
+            <Button
+                android:id="@+id/gs_bnt_room_join"
+                android:layout_width="@dimen/input_width"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/input_size"
+                android:layout_gravity="center"
+                android:text="加入" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

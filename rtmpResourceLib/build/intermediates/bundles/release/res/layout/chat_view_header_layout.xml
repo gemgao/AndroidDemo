@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    android:paddingTop="@dimen/chat_padding_top"
+    android:paddingBottom="@dimen/chat_padding_top" >
+
+    <TextView
+        android:id="@+id/looktaking_tv"
+        android:layout_width="@dimen/chat_select_self_width"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/chat_listview_name_left"
+        android:background="@drawable/selector_chat_select_self_switch"
+        android:gravity="center_vertical"
+        android:text="@string/justlookmyname"
+        android:textColor="@color/chat_select_self"
+        android:textSize="@dimen/chat_select_self" >
+    </TextView>
+
+</LinearLayout>

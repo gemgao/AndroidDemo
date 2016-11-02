@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <!-- chat -->
+    <color name="chat_view_bg">#f5f5f5</color>
+    <color name="chat_divide_line">#ededed</color>
+    <color name="chat_edit_view">#aaaaaa</color>
+    <color name="chat_select_self">#626262</color>
+    <color name="chat_system_message">#ffb6322c</color>
+    
+
+    <!-- pop -->
+    <color name="pop_list_do_line_bg">#f2f2f5</color>
+    <color name="item_ly_pop_normal">#ffffff</color>
+    <color name="item_ly_pop_press">#efefef</color>
+    <color name="pop_list_do_text">#da5744</color>
+
+    <!-- vote -->
+    <color name="vote_select_tv">#626262</color>
+    <color name="vote_count_tv">#b6322c</color>
+    <color name="vote_lv_divide">#e8e8e8</color>
+    <color name="vote_receive_total_join">#b6322c</color>
+     <color name="vote_answer_tv">#626262</color>
+
+     <!-- qa -->
+     <color name="qa_name_lit_red">#ffba5d02</color>
+     <color name="qa_item_content">#626262</color>
+</resources>

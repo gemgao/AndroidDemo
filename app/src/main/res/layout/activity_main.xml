@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?><!--android:background="#ffffff"-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cotainer"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+    <!-- 第一部分:CoordinatorLayout -->
+    <android.support.design.widget.CoordinatorLayout
+
+
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/scrollview"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+
+        >
+
+        <!-- 第二部分:缩放控件-->
+        <android.support.design.widget.AppBarLayout
+            android:id="@+id/id_appbarlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <android.support.design.widget.CollapsingToolbarLayout
+                android:id="@+id/collapsing_tool_bar_test_ctl"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fitsSystemWindows="true"
+                app:contentScrim="?attr/colorPrimary"
+                app:expandedTitleMarginEnd="64dp"
+                app:expandedTitleMarginStart="48dp"
+                app:layout_scrollFlags="scroll">
+                <RelativeLayout
+                    android:id="@+id/userScroreRe"
+                    android:layout_width="match_parent"
+                    android:layout_height="240dp"
+                    android:background="#f00"
+                    app:layout_scrollFlags="enterAlwaysCollapsed">
+
+
+
+                </RelativeLayout>
+            </android.support.design.widget.CollapsingToolbarLayout>
+
+
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <RadioGroup
+                        android:id="@+id/radioGroup"
+                        android:layout_width="fill_parent"
+                        android:layout_height="50dip"
+                        android:gravity="center"
+                        android:orientation="horizontal" />
+                </LinearLayout>
+        </android.support.design.widget.AppBarLayout>
+
+
+        <!-- 第三部分:Your Scroll View-->
+        <android.support.v4.widget.NestedScrollView
+            android:id="@+id/myMainScrollView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:overScrollMode="always"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+            <!--- app:layout_behavior="@string/appbar_scrolling_view_behavior"-->
+
+
+            <LinearLayout
+                android:id="@+id/mainLinearLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="50dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:text="测试测试测试测试测试测试测试测试测试测试测测试测试测试测试测试测试测试测试测试测测试测试测试测试测试测试测试测试测试测测试测试测试测试测试测试测试测试测试测测试测试测试测试测试测试测试测试测试测测试测试测试测试测试测试测试测试测试测测试测试测试测试测试测试测试测试测试测测试测试测试测试测试测试测试测试测试测试测试测试"
+                     />
+
+                <!--<FrameLayout-->
+                <!--android:id="@+id/myFrameContainer"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="fill_parent"></FrameLayout>-->
+
+            </LinearLayout>
+        </android.support.v4.widget.NestedScrollView>
+    </android.support.design.widget.CoordinatorLayout>
+</LinearLayout>

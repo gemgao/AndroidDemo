@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingTop="@dimen/vote_answer_item_ver" >
+
+    <LinearLayout
+        android:id="@+id/vote_receiver_choice_ly"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/vote_receive_answe_rb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@drawable/selector_radio" />
+
+            <CheckBox
+                android:id="@+id/vote_receive_answer_cb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@drawable/selector_checkbox"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/vote_receive_answer_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:text="阿里打开等级"
+                android:textColor="@color/vote_answer_tv"
+                android:textSize="@dimen/vote_answer_tv" >
+            </TextView>
+
+            <ImageView
+                android:id="@+id/vote_receive_answer_iv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/vote_receive_iv_success" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/vote_receive_answer_count_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:textColor="@color/vote_receive_total_join"
+            android:textSize="@dimen/vote_receive_total_join" >
+        </TextView>
+
+        <com.gensee.view.VoteProgressBar
+            android:id="@+id/vote_progress_bar_multi"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="100dp"
+            android:layout_height="20dp"
+            android:max="100"
+            android:progress="0"
+            android:progressDrawable="@drawable/vote_progress_style_blue" />
+
+        <com.gensee.view.VoteProgressBar
+            android:id="@+id/vote_progress_bar_single"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="100dp"
+            android:layout_height="20dp"
+            android:max="100"
+            android:progress="0"
+            android:progressDrawable="@drawable/vote_progress_style_blue" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/vote_receive_wd_item_edt"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:background="@drawable/vote_wdt_bg"
+        android:gravity="left"
+        android:maxLines="4"
+        android:visibility="gone" />
+
+</LinearLayout>

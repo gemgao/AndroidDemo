@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.daojia.guide"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        <activity
+            android:name="com.demo.aty.SimpleGuideViewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.demo.aty.HomeActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.demo.aty.FullActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.demo.aty.FragActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.demo.aty.ViewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.demo.aty.MyListActivity"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

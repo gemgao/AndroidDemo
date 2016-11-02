@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/chat_view_bg"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <com.gensee.view.xlistview.CustomXListView
+                android:id="@+id/gs_talkingcontext"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:cacheColorHint="@android:color/transparent"
+                android:divider="@color/chat_divide_line"
+                android:dividerHeight="1dp"
+                android:listSelector="@android:color/transparent" >
+            </com.gensee.view.xlistview.CustomXListView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/chat_bottom"
+                android:gravity="center"
+                android:padding="@dimen/chat_bottom_padding" >
+
+                <TextView
+                    android:id="@+id/chat_to_tv"
+                    android:layout_width="@dimen/chat_bottom_left_width"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/chat_select_person_left"
+                    android:background="@drawable/selector_chat_select_switch"
+                    android:ellipsize="end"
+                    android:gravity="center_vertical"
+                    android:maxEms="6"
+                    android:singleLine="true"
+                    android:text="@string/allname"
+                    android:textColor="@color/chat_edit_view"
+                    android:textSize="@dimen/chat_select_name_size" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/chat_select_person_left"
+                    android:layout_weight="1"
+                    android:background="@drawable/edt_chat_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal" >
+
+                        <com.gensee.view.ChatEditText
+                            android:id="@+id/edittalking"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/chat_editview_context_left"
+                            android:layout_weight="1"
+                            android:background="@null"
+                            android:gravity="center_vertical"
+                            android:maxLines="2"
+                            android:orientation="horizontal"
+                            android:paddingLeft="5dp"
+                            android:textColor="@color/chat_edit_view"
+                            android:textSize="@dimen/chat_editview_context" />
+
+                        <ImageButton
+                            android:id="@+id/expressionbuttton"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:background="@null"
+                            android:src="@drawable/iv_avatar" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <ImageButton
+                    android:id="@+id/sendbutton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/chat_sendbutton_right"
+                    android:background="@drawable/sendbutton" />
+            </LinearLayout>
+
+            <!-- android:layout_height="130dp" -->
+
+            <LinearLayout
+                android:id="@+id/viewpageexpressionlinear"
+                android:layout_width="match_parent"
+                android:layout_height="110dp"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+
+                        <android.support.v4.view.ViewPager
+                            android:id="@+id/viewpager"
+                            android:layout_width="match_parent"
+                            android:layout_height="110dp"
+                            android:layout_gravity="center"
+                            android:background="#ffffff"
+                            android:flipInterval="10"
+                            android:persistentDrawingCache="animation" />
+
+                        <LinearLayout
+                            android:id="@+id/chatexpressaddimg"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:visibility="gone" >
+                        </LinearLayout>
+                    </LinearLayout>
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+        
+        <include layout="@layout/rel_tip_layout" >
+        </include>
+    </RelativeLayout>
+
+</LinearLayout>

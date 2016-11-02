@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+   android:background="@color/chat_view_bg"
+    android:orientation="vertical"
+    >
+
+    <RelativeLayout
+        android:id="@+id/relQuestion"
+         android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/txtQTag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="Q:"
+            android:textColor="@color/chat_system_message"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_marginLeft="3dp"
+            android:id="@+id/txtQContent"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/qa_item_content"
+            android:layout_toRightOf="@id/txtQTag" />
+
+        <TextView
+            android:id="@+id/txtQUser"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txtQContent"
+            android:layout_toLeftOf="@+id/txtQTime"
+            android:layout_toRightOf="@id/txtQTag"
+            android:ellipsize="end"
+            android:gravity="right"
+            android:singleLine="true"
+            android:textColor="@color/qa_name_lit_red" />
+
+        <TextView
+            android:id="@+id/txtQTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/txtQContent"
+            android:textColor="@color/qa_name_lit_red"
+            android:textSize="@dimen/chat_listview_time" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relAnswer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+         >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_height="1dp"
+            android:background="@color/chat_divide_line" />
+
+        <TextView
+            android:id="@+id/txtATag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="A:"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_marginLeft="3dp"
+            android:id="@+id/txtAContent"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/qa_item_content"
+            android:layout_toRightOf="@id/txtATag" />
+
+        <TextView
+            android:id="@+id/txtAUser"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txtAContent"
+            android:layout_toLeftOf="@+id/txtAime"
+            android:layout_toRightOf="@id/txtATag"
+            android:ellipsize="end"
+            android:gravity="right"
+            android:singleLine="true"
+            android:textColor="@color/qa_name_lit_red" />
+
+        <TextView
+            android:id="@+id/txtAime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/txtAContent"
+            android:textColor="@color/qa_name_lit_red"
+            android:textSize="@dimen/chat_listview_time" />
+    </RelativeLayout>
+
+</LinearLayout>

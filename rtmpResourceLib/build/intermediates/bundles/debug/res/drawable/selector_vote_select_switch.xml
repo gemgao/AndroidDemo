@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/vote_select_down" android:state_enabled="true" android:state_selected="false"/>
+    <item android:drawable="@drawable/vote_select_top" android:state_enabled="true" android:state_selected="true"/>
+    <item android:drawable="@drawable/vote_select_qiangzhi" android:state_enabled="false"/>
+
+</selector>

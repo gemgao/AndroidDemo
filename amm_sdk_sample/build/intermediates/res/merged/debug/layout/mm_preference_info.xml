@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:paddingLeft="10dp"
+	android:paddingRight="10dp"
+	android:paddingTop="7dp"
+	android:paddingBottom="12dp">
+	<TextView
+		style="@style/MMBriefText"
+		android:id="@+android:id/title"
+		android:layout_marginLeft="4dp"
+		android:layout_marginRight="4dp"
+		android:gravity="center" />
+</LinearLayout>

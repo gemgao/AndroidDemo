@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="input_width">160dp</dimen>
+    <dimen name="input_size">12sp</dimen>
+    <dimen name="diaplaytime_width">60dp</dimen>
+    <dimen name="listitempaly">50dp</dimen>
+    
+    
+    <dimen name="doc_padding">5dp</dimen>
+
+</resources>

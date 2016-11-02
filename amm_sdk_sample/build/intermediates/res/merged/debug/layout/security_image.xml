@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tencent.mm.sdk.uikit.applet.SecurityImage xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout style="@style/MMBody" >
+
+        <!-- SecImg -->
+
+        <LinearLayout
+            style="@style/MMLine"
+            android:gravity="bottom"
+            android:padding="5dp" >
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#000000"
+                android:minHeight="40dp"
+                android:padding="1dp" >
+
+                <ImageView
+                    android:id="@+id/authcode_iv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:minHeight="40dp"
+                    android:minWidth="100dp" />
+
+                <ProgressBar
+                    android:id="@+id/refresh_mini_pb"
+                    style="?android:attr/progressBarStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:visibility="invisible" />
+            </FrameLayout>
+
+            <View style="@style/MMSplit" />
+
+            <Button
+                android:id="@+id/authcode_change_btn"
+                style="@style/HyperText"
+                android:minHeight="40dp"
+                android:singleLine="true"
+                android:text="@string/applet_secimg_change" />
+        </LinearLayout>
+
+        <View style="@style/MMSplit" />
+
+        <!-- SecCode -->
+
+        <EditText
+            android:id="@+id/authcode_et"
+            style="@style/MMLineEditText"
+            android:hint="@string/applet_secimg_title" />
+    </LinearLayout>
+
+</com.tencent.mm.sdk.uikit.applet.SecurityImage>

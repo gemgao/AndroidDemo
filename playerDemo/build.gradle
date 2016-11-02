@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.gensee.playerdemo"
+        minSdkVersion 9
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':rtmpResourceLib')
+    compile 'com.android.support:appcompat-v7:23.2.1'
+    compile files('libs/gensee_baseplayer.jar')
+    compile files('libs/gensee_common.jar')
+    compile files('libs/gensee_doc.jar')
+    compile files('libs/gensee_expression.jar')
+    compile files('libs/gensee_hb.jar')
+    compile files('libs/gensee_rtmpplayer.jar')
+    compile files('libs/gensee_vod_ol.jar')
+}

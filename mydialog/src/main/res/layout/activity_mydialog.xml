@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context="com.example.mydialog.MydilogActivity">
+
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/first_bg"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <TextView
+                android:id="@+id/iv_top"
+                android:layout_width="match_parent"
+                android:layout_height="151dp"
+                android:background="@drawable/bg"
+                android:gravity="center"
+                android:text="优惠码"
+                android:textColor="#fff"
+                android:textSize="30sp" />
+
+            <ImageView
+                android:id="@+id/iv_close"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|top"
+                android:layout_marginTop="7dp"
+                android:layout_marginRight="7dp"
+                android:src="@drawable/closebg" />
+        </FrameLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingBottom="20dp"
+            android:paddingLeft="27dp"
+            android:paddingRight="27dp"
+            android:paddingTop="46dp">
+
+
+            <EditText
+                android:id="@+id/et_con"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/edbg"
+                android:gravity="center"
+                android:hint="输入优惠码"
+                android:textColor="#000"
+                android:textColorHint="#ccc"
+                android:textSize="13sp" />
+
+
+            <TextView
+                android:id="@+id/tv_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="34dp"
+                android:background="@drawable/qukk"
+                android:gravity="center"
+                android:text="使用"
+                android:textColor="#fff" />
+
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/vote_receiver_bottom_ly"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/vote_margin_hor"
+        android:paddingRight="@dimen/vote_margin_hor" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vote_select_top_ver"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/select_tv"
+                    style="@style/select_tv"
+                    android:ellipsize="end"
+                    android:gravity="left|center_vertical"
+                    android:singleLine="true"
+                    android:textColor="@color/vote_select_tv"
+                    android:textSize="@dimen/vote_select_size_tv" />
+
+                <TextView
+                    android:id="@+id/vote_count_tv"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:paddingLeft="5dp"
+                    android:singleLine="true"
+                    android:textColor="@color/vote_count_tv"
+                    android:textSize="@dimen/vote_select_size_tv" >
+                </TextView>
+
+                <com.gensee.view.AutoScrollTextView
+                    android:id="@+id/vote_qiangzhi_tv"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="5dp"
+                    android:singleLine="true"
+                    android:textColor="@color/vote_count_tv"
+                    android:textSize="@dimen/vote_select_size_tv"
+                    android:visibility="gone" >
+                </com.gensee.view.AutoScrollTextView>
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/vote_receiver_close_iv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vote_top_ver"
+                android:background="@drawable/iv_close"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/vote_receiver_lv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/vote_lv_ver"
+            android:layout_weight="1"
+            android:cacheColorHint="@android:color/transparent"
+            android:divider="@color/vote_lv_divide"
+            android:dividerHeight="1dp"
+            android:footerDividersEnabled="false" >
+        </ListView>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/vote_bottom_btn_margin_top"
+            android:gravity="center"
+            android:padding="@dimen/vote_bottom_btn_padding" >
+
+            <Button
+                android:id="@+id/vote_receiver_commit_btn"
+                style="@style/bottom_btn"
+                android:visibility="gone"
+                android:text="@string/commit" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

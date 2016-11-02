@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ly_vote_receive_item.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ly_vote_receive_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\popchat_layout.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\bundles\\debug\\res\\layout\\popchat_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pop_layout.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\bundles\\debug\\res\\layout\\pop_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\chat_gridview_expression_layout.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\bundles\\debug\\res\\layout\\chat_gridview_expression_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\chat_view_header_layout.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\bundles\\debug\\res\\layout\\chat_view_header_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\popchat_list_item.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\bundles\\debug\\res\\layout\\popchat_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\gs_qa_layout.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\bundles\\debug\\res\\layout\\gs_qa_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rel_tip_layout.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\bundles\\debug\\res\\layout\\rel_tip_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_rtmp_source.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_rtmp_source.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_header.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\chat_view_layout.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\bundles\\debug\\res\\layout\\chat_view_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\progress_relative.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\bundles\\debug\\res\\layout\\progress_relative.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\chat_listitem_layout.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\bundles\\debug\\res\\layout\\chat_listitem_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\single_expression_layout.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\bundles\\debug\\res\\layout\\single_expression_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_footer.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vote_layout.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\bundles\\debug\\res\\layout\\vote_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ly_vote_receive_answers_item.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ly_vote_receive_answers_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\gs_qa_item_layout.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\bundles\\debug\\res\\layout\\gs_qa_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pop_list_item.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\rtmpResourceLib\\build\\intermediates\\bundles\\debug\\res\\layout\\pop_list_item.xml"
+    }
+]

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/vote_question_bottom"
+    android:paddingTop="@dimen/vote_question_top" >
+
+    <TextView
+        android:id="@+id/vote_receive_question_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="阿打发打发地方发鬼地方"
+        android:textColor="@color/vote_count_tv"
+        android:textSize="@dimen/vote_question_tv" >
+    </TextView>
+
+    <LinearLayout
+        android:id="@+id/vote_receive_answe_item_ly"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right" >
+
+        <TextView
+            android:id="@+id/vote_receive_answer_question_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:paddingTop="@dimen/vote_receive_margin_ver"
+            android:textColor="@color/vote_receive_total_join"
+            android:textSize="@dimen/vote_receive_total_join" >
+        </TextView>
+    </LinearLayout>
+
+</LinearLayout>

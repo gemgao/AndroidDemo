@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\menu\\rtmp_source.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\menu\\rtmp_source.xml"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\src\\main\\res\\menu\\main.xml"
+    }
+]

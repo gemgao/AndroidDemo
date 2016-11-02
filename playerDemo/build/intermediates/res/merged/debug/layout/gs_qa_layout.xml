@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/chat_view_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <com.gensee.view.xlistview.CustomXListView
+                android:id="@+id/gsQaListView"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:cacheColorHint="@android:color/transparent"
+                android:divider="@color/chat_divide_line"
+                android:dividerHeight="1dp"
+                android:listSelector="@android:color/transparent"
+                android:tag="gsQaListView" >
+            </com.gensee.view.xlistview.CustomXListView>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/chat_bottom"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <EditText
+                    android:id="@+id/gsQaEdit"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/chat_editview_context_left"
+                    android:layout_weight="1"
+                    android:background="@drawable/edt_chat_content"
+                    android:gravity="center_vertical"
+                    android:maxLines="2"
+                    android:orientation="horizontal"
+                    android:paddingLeft="5dp"
+                    android:tag="gsQaEdit"
+                    android:textColor="@color/chat_edit_view"
+                    android:textSize="@dimen/chat_editview_context" />
+
+                <ImageButton
+                    android:id="@+id/gsQaSend"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/chat_sendbutton_right"
+                    android:background="@drawable/sendbutton"
+                    android:tag="gsQaSend" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <include layout="@layout/rel_tip_layout" >
+        </include>
+    </RelativeLayout>
+
+</LinearLayout>

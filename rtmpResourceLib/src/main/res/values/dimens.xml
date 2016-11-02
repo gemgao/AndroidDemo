@@ -1,0 +1,52 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- chat -->
+    <dimen name="chat_padding_top">10dp</dimen>
+    <dimen name="chat_bottom_padding">5dp</dimen>
+    <dimen name="chat_bottom_left_width">80dp</dimen>
+    <dimen name="chat_select_person_left">5dp</dimen>
+    <dimen name="chat_select_name_size">14sp</dimen>
+    <dimen name="chat_editview_context_left">4dp</dimen>
+    <dimen name="chat_editview_context">12sp</dimen>
+    <dimen name="chat_sendbutton_right">5dp</dimen>
+    <dimen name="chat_select_self_width">150dp</dimen>
+    <dimen name="chat_select_self">14sp</dimen>
+    <dimen name="chat_listview_name_left">19dp</dimen>
+    <dimen name="chat_listview_name">14sp</dimen>
+    <dimen name="chat_listview_time_right">19dp</dimen>
+    <dimen name="chat_listview_time">14sp</dimen>
+    <dimen name="chat_listview_context_left">19dp</dimen>
+    <dimen name="chat_listview_context_bottom">15dp</dimen>
+    <dimen name="chat_listview_content_top">10dp</dimen>
+    <dimen name="chat_listview_context">14sp</dimen>
+
+    <!-- popwindow -->
+    <dimen name="pop_list_do_text">14sp</dimen>
+    <dimen name="pop_list_pop_width">150dp</dimen>
+    <dimen name="pop_list_pop_height">215dp</dimen>
+    <dimen name="pop_list_item_height">40dp</dimen>
+
+    <!-- vote -->
+    <dimen name="vote_margin_hor">15dp</dimen>
+    <dimen name="vote_select_top_ver">10dp</dimen>
+    <dimen name="vote_select_lenght">120dp</dimen>
+    <dimen name="bottom_btn_text_size">16sp</dimen>
+    <dimen name="bottom_btn_length">160dp</dimen>
+    <dimen name="vote_select_size_tv">16sp</dimen>
+    <dimen name="vote_top_ver">5dp</dimen>
+    <dimen name="vote_lv_ver">2dp</dimen>
+    <dimen name="vote_bottom_btn_margin_top">10dp</dimen>
+    <dimen name="vote_bottom_btn_padding">10dp</dimen>
+    <dimen name="vote_question_bottom">28dp</dimen>
+    <dimen name="vote_question_top">24dp</dimen>
+    <dimen name="vote_question_tv">16sp</dimen>
+    <dimen name="vote_receive_margin_ver">15dp</dimen>
+    <dimen name="vote_receive_total_join">12sp</dimen>
+    <dimen name="vote_answer_item_ver">24dp</dimen>
+    <dimen name="vote_answer_tv">16sp</dimen>
+
+</resources>

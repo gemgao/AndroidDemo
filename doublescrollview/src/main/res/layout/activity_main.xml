@@ -1,0 +1,206 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.example.doublescrollview.SlidingMenu
+        android:id="@+id/expanded_menu"
+        android:scrollbars="none"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <com.example.doublescrollview.YsnowScrollViewPageOne
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/ripple_material_dark"
+                android:scrollbars="vertical"
+                >
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/iv_photo"
+                        android:layout_width="match_parent"
+                        android:layout_height="180dp"
+                        android:background="#f7f7f7" />
+
+                    <RelativeLayout
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        >
+
+                        <TextView
+                            android:id="@+id/iv_title"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:layout_alignParentTop="true"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_marginTop="16dp"
+                            android:text=""
+                            android:textColor="#2c2c2c"
+                            android:textSize="16sp" />
+
+                        <TextView
+                            android:id="@+id/tv_time"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignLeft="@+id/iv_title"
+                            android:layout_alignStart="@+id/iv_title"
+                            android:layout_below="@+id/iv_title"
+                            android:layout_marginTop="9dp"
+                            android:text=""
+                            android:textColor="#8e8e8e"
+                            android:textSize="12sp" />
+
+                        <RelativeLayout
+                            android:id="@+id/rl"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:layout_below="@+id/tv_time"
+                            android:gravity="center">
+
+                            <TextView
+                                android:id="@+id/num"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentLeft="true"
+                                android:layout_alignParentStart="true"
+                                android:layout_centerVertical="true"
+                                android:layout_marginLeft="15dp"
+                                android:text=""
+                                android:textColor="#ff6601"
+                                android:textSize="12sp" />
+
+                            <TextView
+                                android:id="@+id/tvv_price"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentEnd="true"
+                                android:layout_alignParentRight="true"
+                                android:layout_marginRight="10dp"
+                                android:text="￥"
+                                android:textColor="#ff6601"
+                                android:textSize="24sp" />
+                        </RelativeLayout>
+
+                        <View
+                            android:id="@+id/view6"
+                            android:layout_width="match_parent"
+                            android:layout_height="1dp"
+                            android:layout_below="@+id/rl"
+                            android:layout_marginTop="8dp"
+                            android:background="#f7f7f7" />
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/view6"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginTop="10dp">
+
+                            <TextView
+                                android:id="@+id/coursenum"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text=""
+                                android:textColor="#8e8e8e"
+                                android:textSize="12sp" />
+
+                            <TextView
+                                android:id="@+id/state"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentEnd="true"
+                                android:layout_alignParentRight="true"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginRight="15dp"
+                                android:text=""
+                                android:textColor="#8e8e8e"
+                                android:textSize="12sp" />
+
+                        </RelativeLayout>
+                    </RelativeLayout>
+                </LinearLayout>
+
+
+
+            </com.example.doublescrollview.YsnowScrollViewPageOne>
+
+            <com.example.doublescrollview.YsnowWebView
+                android:id="@+id/ysnowswebview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                >
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:layout_marginTop="5dp"
+                    android:orientation="horizontal">
+
+                    <RadioGroup
+                        android:id="@+id/rg"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <RadioButton
+                            android:id="@+id/rb_des"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:button="@null"
+                            android:checked="true"
+                            android:gravity="center"
+                            android:text="课程介绍"
+                            android:textSize="14sp" />
+
+                        <RadioButton
+                            android:id="@+id/rb_course"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:button="@null"
+                            android:gravity="center"
+                            android:text="课程表"
+                            android:textSize="14sp" />
+
+                        <RadioButton
+                            android:id="@+id/rb_teacher"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:button="@null"
+                            android:gravity="center"
+                            android:text="老师简介"
+                            android:textSize="14sp" />
+                    </RadioGroup>
+
+                </LinearLayout>
+
+
+            </com.example.doublescrollview.YsnowWebView>
+
+        </LinearLayout>
+
+    </com.example.doublescrollview.SlidingMenu>
+
+
+</RelativeLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/preference_item"
+    android:gravity="center_vertical" >
+
+    <LinearLayout
+        android:id="@+id/content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="4sp"
+        android:layout_weight="1"
+        android:gravity="left|center_vertical"
+        android:minHeight="@dimen/PreferenceItemHeight" >
+
+        <TextView
+            android:id="@+android:id/title"
+            style="@style/MMFontPreferenceLarge"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6dp"
+            android:layout_weight="1"
+            android:singleLine="true"/>
+
+        <TextView
+            android:id="@+android:id/summary"
+            style="@style/MMFontPreferenceSummary"
+            android:singleLine="true" />
+    </LinearLayout>
+
+    <!-- Preference should place its actual preference widget here. -->
+
+    <LinearLayout
+        android:id="@+android:id/widget_frame"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:gravity="right|center_vertical"
+        android:orientation="vertical" />
+
+</LinearLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sendrequest"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/sendrequest_tip"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:singleLine="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/TitleTextSize" />
+
+    <View
+        style="@style/MMSplit"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp" />
+
+    <EditText
+        android:id="@+id/sendrequest_content"
+        style="@style/MMLineEditText"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:maxLength="16" />
+
+</LinearLayout>

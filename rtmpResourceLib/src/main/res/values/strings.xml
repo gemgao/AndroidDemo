@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- chat -->
+    <string name="brow_nh_cn">【emotion.smile.gif】</string>
+    <string name="brow_zj_cn">【emotion.goodbye.gif】</string>
+    <string name="brow_gx_cn">【emotion.laugh.gif】</string>
+    <string name="brow_sx_cn">【emotion.cry.gif】</string>
+    <string name="brow_tkl_cn">【feedback.quickly.png】</string>
+    <string name="brow_tml_cn">【feedback.slowly.png】</string>
+    <string name="brow_zt_cn">【feedback.agreed.png】</string>
+    <string name="brow_fd_cn">【feedback.against.gif】</string>
+    <string name="brow_gz_cn">【feedback.applaud.png】</string>
+    <string name="brow_fn_cn">【emotion.angerly.gif】</string>
+    <string name="brow_zdsk_cn">【feedback.think.png】</string>
+    <string name="brow_wl_cn">【emotion.nod.gif】</string>
+    <string name="brow_lh_cn">【emotion.lh.gif】</string>
+    <string name="brow_bs_cn">【emotion.bs.gif】</string>
+    <string name="brow_yw_cn">【emotion.question.gif】</string>
+    <string name="brow_dx_cn">【rose.down.png】</string>
+    <string name="brow_xh_cn">【rose.up.png】</string>
+    <string name="brow_lw_cn">【chat.gift.png】</string>
+    <string name="emotion_bz_cn">【emotion.bz.gif】</string>
+    <string name="emotion_fd_cn">【emotion.fd.gif】</string>
+    <string name="emotion_gg_cn">【emotion.gg.gif】</string>
+    <string name="emotion_gz_cn">【emotion.gz.gif】</string>
+    <string name="emotion_hx_cn">【emotion.hx.gif】</string>
+    <string name="emotion_jk_cn">【emotion.jk.gif】</string>
+    <string name="emotion_jy_cn">【emotion.jy.gif】</string>
+    <string name="emotion_kb_cn">【emotion.kb.gif】</string>
+    <string name="emotion_kl_cn">【emotion.kl.gif】</string>
+    <string name="emotion_ll_cn">【emotion.ll.gif】</string>
+    <string name="emotion_qd_cn">【emotion.qd.gif】</string>
+    <string name="emotion_qh_cn">【emotion.qh.gif】</string>
+    <string name="emotion_qq_cn">【emotion.qq.gif】</string>
+    <string name="emotion_rb_cn">【emotion.rb.gif】</string>
+    <string name="emotion_se_cn">【emotion.se.gif】</string>
+    <string name="emotion_tx_cn">【emotion.tx.gif】</string>
+    <string name="emotion_xu_cn">【emotion.xu.gif】</string>
+    <string name="emotion_yun_cn">【emotion.yun.gif】</string>
+
+    <!-- chat -->
+    <string name="allname">所有人</string>
+    <string name="justlookmyname">只看我的聊天</string>
+    <string name="justlookmyqa">只看我的提问</string>
+    <string name="sytsemmesg">系统消息</string>
+    <string name="displaytime">00:00:00</string>
+    <string name="chat_system_msg_colon">系统消息:</string>
+    <string name="chat_to">对</string>
+    <string name="chat_say">说</string>
+    <string name="chat_me">我</string>
+    <string name="chat_msg_not_null">聊天信息不能为空</string>
+    <string name="chat_self_null">自己的用户信息为空</string>
+    <string name="chat_not_to_self">不能和自己聊天</string>
+    <string name="query_self_tip">查询中,请稍候....</string>
+    <string name="live_pause">直播暂停</string>
+    <string name="live_playing">直播中</string>
+    <string name="chat_disable">禁止聊天</string>
+    <string name="chat_enable">允许聊天</string>
+    <!-- xlistview -->
+    <!-- xlistview -->
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <!-- vote -->
+    <string name="vote_have_commit">已提交</string>
+    <string name="commit">提交</string>
+    <string name="vote_qiangzhi_tip">当前为强制投票，需要提交后才能关闭</string>
+    <string name="single_choice">【单选】</string>
+    <string name="multi_choice">【多选】</string>
+    <string name="text_wd">【问答】</string>
+    <string name="vote_total_person_join">共(%d人)参与</string>
+    <string name="vote_question_fenshu">, 分数：%d</string>
+    <string name="vote_count">%d份</string>
+    <string name="vote_not_exist">试卷不存在</string>
+    <string name="vote_deadline_tip">抱歉! 本试卷已被终止，不能提交了。</string>
+    <string name="vote_please_dawan">请先答题再提交</string>
+    <string name="vote_please_dawan_all">请回答完所有问题</string>
+    <!-- chat -->
+    <string name="brow_nh_cn_text">【你好】</string>
+    <string name="brow_zj_cn_text">【再见】</string>
+    <string name="brow_gx_cn_text">【高兴】</string>
+    <string name="brow_sx_cn_text">【伤心】</string>
+    <string name="brow_tkl_cn_text">【太快了】</string>
+    <string name="brow_tml_cn_text">【太慢了】</string>
+    <string name="brow_zt_cn_text">【赞同】</string>
+    <string name="brow_fd_cn_text">【反对】</string>
+    <string name="brow_gz_cn_text">【鼓掌】</string>
+    <string name="brow_fn_cn_text">【愤怒】</string>
+    <string name="brow_zdsk_cn_text">【值得思考】</string>
+    <string name="brow_wl_cn_text">【无聊】</string>
+    <string name="brow_lh_cn_text">【流汗】</string>
+    <string name="brow_bs_cn_text">【鄙视】</string>
+    <string name="brow_yw_cn_text">【疑问】</string>
+    <string name="brow_dx_cn_text">【凋谢】</string>
+    <string name="brow_xh_cn_text">【鲜花】</string>
+    <string name="brow_lw_cn_text">【礼物】</string>
+    <string name="emotion_bz_cn_text">【闭嘴】</string>
+    <string name="emotion_fd_cn_text">【奋斗】</string>
+    <string name="emotion_gg_cn_text">【尴尬】</string>
+    <string name="emotion_gz_cn_text">【鼓掌】</string>
+    <string name="emotion_hx_cn_text">【害羞】</string>
+    <string name="emotion_jk_cn_text">【惊恐】</string>
+    <string name="emotion_jy_cn_text">【惊讶】</string>
+    <string name="emotion_kb_cn_text">【抠鼻】</string>
+    <string name="emotion_kl_cn_text">【可怜】</string>
+    <string name="emotion_ll_cn_text">【流泪】</string>
+    <string name="emotion_qd_cn_text">【敲打】</string>
+    <string name="emotion_qh_cn_text">【强悍】</string>
+    <string name="emotion_qq_cn_text">【亲亲】</string>
+    <string name="emotion_rb_cn_text">【弱爆】</string>
+    <string name="emotion_se_cn_text">【色】</string>
+    <string name="emotion_tx_cn_text">【偷笑】</string>
+    <string name="emotion_xu_cn_text">【嘘】</string>
+    <string name="emotion_yun_cn_text">【晕】</string>
+    <string name="chat_context_max">聊天内容总数不能大于512个</string>
+    <string name="chat_context_avatar_max">聊天内容表情数不能大于20个</string>
+
+</resources>
