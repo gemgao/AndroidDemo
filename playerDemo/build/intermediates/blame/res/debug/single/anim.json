@@ -8,20 +8,48 @@
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_slide_out_top.xml"
     },
     {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_popup_enter.xml"
     },
     {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
@@ -32,8 +60,20 @@
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",

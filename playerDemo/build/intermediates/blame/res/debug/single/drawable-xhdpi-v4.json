@@ -1,19 +1,11 @@
 [
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
@@ -24,12 +16,24 @@
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\btn_red_sure.9.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
@@ -40,24 +44,40 @@
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_unchecked_gray.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\checkbox_unchecked_gray.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_user_select_tv_up.9.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\chat_user_select_tv_up.9.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bnt_chat_dismiss_context.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\bnt_chat_dismiss_context.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
@@ -68,36 +88,28 @@
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\radio_checked.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\radio_checked.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_viewpage_fource.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\chat_viewpage_fource.png"
-    },
-    {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\radio_checked.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\radio_checked.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\MyGit\\playerDemo\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edt_chat_content.9.png",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\edt_chat_content.9.png"
-    },
-    {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_self_select.9.png",
@@ -112,16 +124,16 @@
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\checkbox_unchecked.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_user_select_tv_up.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\chat_user_select_tv_up.9.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vote_select_top.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\vote_select_top.9.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
@@ -132,16 +144,24 @@
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\radio_unchecked_gray.png"
     },
     {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_viewpage_unfource.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\chat_viewpage_unfource.png"
+    },
+    {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vote_select_qiangzhi.9.png",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\vote_select_qiangzhi.9.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bnt_chat_dismiss_context.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\bnt_chat_dismiss_context.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vote_receive_iv_success.png",
@@ -156,76 +176,60 @@
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\checkbox_unchecked_gray.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_checked.png",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\checkbox_checked.png"
-    },
-    {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_user_select_tv_down.9.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\chat_user_select_tv_down.9.png"
-    },
-    {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vote_select_top.9.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\vote_select_top.9.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vote_select_top.9.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\vote_select_top.9.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_viewpage_fource.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\chat_viewpage_fource.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iv_close.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\iv_close.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_bottom.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\chat_bottom.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_viewpage_unfource.png",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\chat_viewpage_unfource.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vote_select_down.9.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\vote_select_down.9.png"
-    },
-    {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vote_wdt_bg.9.png",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\vote_wdt_bg.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
@@ -236,12 +240,12 @@
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\chat_self_unselect.9.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iv_avatar.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\iv_avatar.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_self_select.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\chat_self_select.9.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
@@ -252,20 +256,20 @@
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_checked_gray.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\checkbox_checked_gray.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_gray_sure.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\btn_gray_sure.9.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\radio_unchecked.png",
@@ -276,12 +280,312 @@
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sendbutton.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\sendbutton.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sendbutton.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\sendbutton.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edt_chat_content.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\edt_chat_content.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_red_sure.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\btn_red_sure.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_checked_gray.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\checkbox_checked_gray.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vote_select_qiangzhi.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\vote_select_qiangzhi.9.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading_x60.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\loading_x60.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_user_select_tv_up.9.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\chat_user_select_tv_up.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\radio_unchecked.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\radio_unchecked.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vote_select_down.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\vote_select_down.9.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\radio_unchecked_gray.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\radio_unchecked_gray.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_checked.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\checkbox_checked.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_viewpage_fource.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\chat_viewpage_fource.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\radio_checked.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\radio_checked.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_user_select_tv_down.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\chat_user_select_tv_down.9.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iv_close.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\iv_close.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bnt_chat_dismiss_context.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\bnt_chat_dismiss_context.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\radio_checked_gray.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\radio_checked_gray.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_user_select_tv_down.9.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\chat_user_select_tv_down.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vote_wdt_bg.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\vote_wdt_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iv_close.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\iv_close.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vote_select_down.9.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\vote_select_down.9.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vote_receive_iv_success.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\vote_receive_iv_success.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_self_unselect.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\chat_self_unselect.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_unchecked.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\MyGit\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\checkbox_unchecked.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_checked_gray.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\checkbox_checked_gray.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_bottom.9.png",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\chat_bottom.9.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iv_avatar.png",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\iv_avatar.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading_x60.png",
@@ -292,15 +596,15 @@
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sendbutton.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\sendbutton.png"
-    },
-    {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_gray_sure.9.png",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\MyApplication\\rtmpResourceLib\\unspecified\\res\\drawable-xhdpi-v4\\btn_gray_sure.9.png"
     },
     {
-        "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     }
 ]

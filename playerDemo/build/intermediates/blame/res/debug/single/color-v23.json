@@ -1,5 +1,9 @@
 [
     {
+        "merged": "F:\\MyGit\\playerDemo\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "F:\\MyGit\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
         "merged": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
         "source": "F:\\AndroidDemo\\MyApplication\\playerDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color-v23\\abc_color_highlight_material.xml"
     }
