@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.example.myapplication.MainActivity">
+
+    <Button
+        android:id="@+id/btn_translate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="平移" />
+    <Button
+        android:id="@+id/btn_alpha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="透明" />
+    <Button
+        android:id="@+id/btn_scale"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="缩放" />
+    <Button
+        android:id="@+id/btn_rotate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="旋转" />
+    <Button
+        android:id="@+id/btn_set"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="一起飞" />
+
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/iv"
+        android:layout_gravity="center"/>
+
+</LinearLayout>

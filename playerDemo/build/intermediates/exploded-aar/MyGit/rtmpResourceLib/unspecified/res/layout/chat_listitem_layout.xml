@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/chat_view_bg" >
+
+    <TextView
+        android:id="@+id/chatnametext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/chat_listview_name_left"
+        android:layout_marginTop="5dp"
+        android:text="@string/sytsemmesg"
+        android:textSize="@dimen/chat_listview_name"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/chattimetext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/chatnametext"
+        android:layout_alignTop="@id/chatnametext"
+        android:layout_marginLeft="19dp"
+        android:layout_marginRight="@dimen/chat_listview_time_right"
+        android:layout_toRightOf="@id/chatnametext"
+        android:gravity="center"
+        android:text="@string/displaytime"
+        android:textColor="@color/chat_system_message"
+        android:textSize="@dimen/chat_listview_time"
+        android:visibility="gone" />
+
+    <com.gensee.view.MyTextViewEx
+        android:id="@+id/chatcontexttextview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/chatnametext"
+        android:layout_marginLeft="@dimen/chat_listview_context_left"
+        android:layout_marginTop="@dimen/chat_listview_content_top"
+        android:paddingBottom="@dimen/chat_listview_context_bottom"
+        android:textColor="@color/chat_select_self"
+        android:textSize="@dimen/chat_listview_context"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/chat_view_bg" >
+
+        <com.gensee.view.MyTextViewEx
+            android:id="@+id/chat_listview_tex_context"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/chat_listview_context_left"
+            android:layout_marginTop="@dimen/chat_listview_content_top"
+            android:gravity="center_vertical"
+            android:paddingBottom="@dimen/chat_listview_content_top"
+            android:paddingTop="@dimen/chat_listview_content_top"
+            android:text="@string/sytsemmesg"
+            android:textSize="@dimen/chat_listview_context"
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/chat_listview_bnt_delete_context"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/bnt_chat_dismiss_context"
+            android:visibility="visible" />
+    </RelativeLayout>
+
+</RelativeLayout>
