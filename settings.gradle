@@ -1,3 +1,1 @@
-include ':app', ':scrollviewactivity', ':doublescrollview', ':recyclerviewdemo', ':mydialog', ':photoview', ':guidviewDemo', ':guideview', ':okhttpdemo'
-include ':rtmpResourceLib'
-include ':playerDemo'
+include ':app', ':scrollviewactivity', ':doublescrollview', ':recyclerviewdemo', ':mydialog', ':photoview', ':guidviewDemo', ':guideview', ':okhttpdemo', ':animatorDemo'

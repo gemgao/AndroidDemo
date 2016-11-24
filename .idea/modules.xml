@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyGit.iml" filepath="$PROJECT_DIR$/MyGit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animatorDemo/animatorDemo.iml" filepath="$PROJECT_DIR$/animatorDemo/animatorDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/doublescrollview/doublescrollview.iml" filepath="$PROJECT_DIR$/doublescrollview/doublescrollview.iml" />
       <module fileurl="file://$PROJECT_DIR$/guideview/guideview.iml" filepath="$PROJECT_DIR$/guideview/guideview.iml" />
@@ -10,9 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/mydialog/mydialog.iml" filepath="$PROJECT_DIR$/mydialog/mydialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" filepath="$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/photoview/photoview.iml" filepath="$PROJECT_DIR$/photoview/photoview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/playerDemo/playerDemo.iml" filepath="$PROJECT_DIR$/playerDemo/playerDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/recyclerviewdemo/recyclerviewdemo.iml" filepath="$PROJECT_DIR$/recyclerviewdemo/recyclerviewdemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rtmpResourceLib/rtmpResourceLib.iml" filepath="$PROJECT_DIR$/rtmpResourceLib/rtmpResourceLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/scrollviewactivity/scrollviewactivity.iml" filepath="$PROJECT_DIR$/scrollviewactivity/scrollviewactivity.iml" />
     </modules>
   </component>
