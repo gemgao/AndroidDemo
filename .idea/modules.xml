@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/doublescrollview/doublescrollview.iml" filepath="$PROJECT_DIR$/doublescrollview/doublescrollview.iml" />
       <module fileurl="file://$PROJECT_DIR$/guideview/guideview.iml" filepath="$PROJECT_DIR$/guideview/guideview.iml" />
       <module fileurl="file://$PROJECT_DIR$/guidviewDemo/guidviewDemo.iml" filepath="$PROJECT_DIR$/guidviewDemo/guidviewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myTextView/myTextView.iml" filepath="$PROJECT_DIR$/myTextView/myTextView.iml" />
       <module fileurl="file://$PROJECT_DIR$/mydialog/mydialog.iml" filepath="$PROJECT_DIR$/mydialog/mydialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" filepath="$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/photoview/photoview.iml" filepath="$PROJECT_DIR$/photoview/photoview.iml" />

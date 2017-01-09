@@ -5,6 +5,7 @@ import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -55,45 +56,54 @@ public class MainActivity extends AppCompatActivity {
         btn_post.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                initPstConection();
+                //开启一个线程，做联网操作
+                new Thread() {
+                    @Override
+                    public void run() {
+
+                        initPstConection();
+                    }
+                }.start();
             }
         });
+
 
     }
 
     private void initPstConection() {
-        MediaType MEDIA_TYPE_MARKDOWN
-                = MediaType.parse("text/x-markdown; charset=utf-8");
-
-        OkHttpClient client = new OkHttpClient();
-
-
-        String postBody = ""
-                + "Releases\n"
-                + "--------\n"
-                + "\n"
-                + " * _1.0_ May 6, 2013\n"
-                + " * _1.1_ June 15, 2013\n"
-                + " * _1.2_ August 11, 2013\n";
-
+//        MediaType MEDIA_TYPE_MARKDOWN
+//                = MediaType.parse("text/x-markdown; charset=utf-8");
+        MediaType JSON = MediaType.parse("application/json; charset=utf-8");
+        String json = "{\n" +
+                "  \"md5\": \"\"\n" +
+                "}";
+        OkHttpClient okHttpClient = new OkHttpClient();
+        //创建一个RequestBody(参数1：数据类型 参数2传递的json串)
+        RequestBody requestBody = RequestBody.create(JSON, json);
+        //创建一个请求对象
         Request request = new Request.Builder()
-                .url("https://api.github.com/markdown/raw")
-                .post(RequestBody.create(MEDIA_TYPE_MARKDOWN, postBody))
+                .url("http://115.28.61.196:8080/danglaoshi-web-app/basic/knowledge")
+                .post(requestBody)
+                .addHeader("accept-language","zh")
+                .addHeader("sessionId","5521bde9-2f36-4d16-9fb8-e75df74154f9")
+                .addHeader("userId","qE1uiD6wHve=")
                 .build();
-
-        client.newCall(request).enqueue(new Callback() {
-            @Override
-            public void onFailure(Call call, IOException e) {
-            }
-
-            @Override
-            public void onResponse(Call call, Response response) throws IOException {
-                System.out.println(response.body().string());
+        //发送请求获取响应
+        try {
+            Response response=okHttpClient.newCall(request).execute();
+            //判断请求是否成功
+            if(response.isSuccessful()){
+                //打印服务端返回结果
+                Log.e("看看数据",response.body().string());
 
             }
-        });
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
     }
+
+
 
     /**
      * 网络连接
