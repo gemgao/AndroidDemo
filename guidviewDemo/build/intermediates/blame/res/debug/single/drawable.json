@@ -56,12 +56,12 @@
         "source": "F:\\MyGit\\guidviewDemo\\src\\main\\res\\drawable\\qzone_game.png"
     },
     {
-        "merged": "F:\\MyGit\\guidviewDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "F:\\MyGit\\guidviewDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
-    },
-    {
         "merged": "F:\\MyGit\\guidviewDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\skin_searchbar_bg.png",
         "source": "F:\\MyGit\\guidviewDemo\\src\\main\\res\\drawable\\skin_searchbar_bg.png"
+    },
+    {
+        "merged": "F:\\MyGit\\guidviewDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "F:\\MyGit\\guidviewDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
         "merged": "F:\\MyGit\\guidviewDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",

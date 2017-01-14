@@ -1,20 +1,18 @@
 package com.ruicheng.myapplication;
 
 import android.content.Intent;
+import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.text.Html;
 import android.text.style.ImageSpan;
 import android.util.Log;
-import android.view.View;
 import android.widget.ScrollView;
 import android.widget.TextView;
 
 import com.ruicheng.myapplication.TextHtml.LinkMovementMethodExt;
 import com.ruicheng.myapplication.TextHtml.MImageGetter;
-import com.ruicheng.myapplication.TextHtml.MTagHandler;
 import com.ruicheng.myapplication.TextHtml.MessageSpan;
 
 import java.util.ArrayList;
@@ -55,5 +53,8 @@ public class MainActivity extends AppCompatActivity {
             }
         };
         tv.setMovementMethod(LinkMovementMethodExt.getInstance(handler, ImageSpan.class));
+
     }
+
+
 }

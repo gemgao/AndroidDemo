@@ -1,1 +1,1 @@
-include ':app', ':scrollviewactivity', ':doublescrollview', ':recyclerviewdemo', ':mydialog', ':photoview', ':guidviewDemo', ':guideview', ':okhttpdemo', ':animatorDemo', ':myTextView'
+include ':app', ':scrollviewactivity', ':doublescrollview', ':recyclerviewdemo', ':mydialog', ':photoview', ':guidviewDemo', ':guideview', ':okhttpdemo', ':animatorDemo', ':myTextView', ':javascript2android'
